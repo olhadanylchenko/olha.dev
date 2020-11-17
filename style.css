@@ -63,7 +63,6 @@ main > section {
       -ms-flex-align: baseline;
           align-items: baseline;
   place-items: center;
-  scroll-snap-align: start;
 }
 
 main > section:first-child {

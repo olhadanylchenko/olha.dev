@@ -51,7 +51,7 @@ main {
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     align-items: baseline;
     place-items: center;
-    scroll-snap-align: start;
+    //scroll-snap-align: start;
 
     &:first-child {
       height: calc(100vh - 9rem);
